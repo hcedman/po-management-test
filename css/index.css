@@ -1,0 +1,81 @@
+.navbar{
+    margin-bottom: 0.5rem;
+}
+
+#container_body{
+    margin-top: 0.5rem;
+    padding: 2rem 2rem 2rem 2rem;
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
+
+#container_total{
+    margin-top: 0.5rem;
+    padding: 2rem 2rem 2rem 2rem;
+
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
+#menu_input{
+    margin: 1rem auto 0rem;
+}
+#container_btn{
+    text-align: right;
+    margin-top: 0.5rem;
+
+}
+           
+#col_date{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: right;
+}
+#row_date{
+    display: flex;
+    flex-direction:row-reverse;
+    margin-bottom: 1rem;
+}
+#total_1, #vat_1, #all_total_1{
+    text-align:right;
+    margin: auto;
+    font-weight:700;
+}
+#total_3, #vat_3, #all_total_3{
+    text-align:right;
+    margin: auto;
+    font-weight:700;
+}
+#total_2{
+    text-align:left ;
+}
+#total, #vat, #all_total{
+    text-align:right;
+}
+
+#btn_box{
+    margin-top: 1rem;
+}
+#link_input1, #link_input2{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.bgc{
+    background-color:darkslateblue;
+}
+.bgc:hover{
+    color: darkslateblue;
+}
+#menu1>a, #menu2>a{
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+}
+#menu1>a:hover, #menu2>a:hover{
+    color:darkslateblue;
+}

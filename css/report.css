@@ -1,0 +1,61 @@
+.navbar {
+}
+
+#container_body {
+  margin-top: 0.5rem;
+  background-color: #f2f2f2;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+}
+#row_search {
+  display: flex;
+  justify-content: end;
+  padding: 1rem 1rem 0.5rem;
+}
+#table_order {
+  margin: 3rem auto 1rem;
+  border-radius: 10px;
+}
+#table_total {
+  width: 20rem;
+  margin: 1rem 1rem 1rem;
+}
+#container_body_3 {
+  background-color: #f2f2f2;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0.5rem;
+  margin-bottom: 2rem;
+}
+.bdr {
+  border-radius: 10px;
+  overflow: hidden;
+  margin: auto;
+}
+.bgc {
+  background-color: darkslateblue;
+}
+#menu1 > a,
+#menu2 > a {
+  color: white;
+  font-weight: 500;
+  text-decoration: none;
+}
+#menu1 > a:hover,
+#menu2 > a:hover {
+  color: darkslateblue;
+}
+#link_input1, #link_input2{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+td{
+  font-size: small;
+}
+th{
+  font-size:medium;
+}
